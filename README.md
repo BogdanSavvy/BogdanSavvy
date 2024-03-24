@@ -46,7 +46,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdansavvy&" alt="bogdansavvy" />
+  <img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdansavvy&" alt="bogdansavvy" />
 </p>
 
 ---
