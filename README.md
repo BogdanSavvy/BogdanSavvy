@@ -2,10 +2,6 @@
 
 <h3 align="left">I am front-end developer with more than 1.5 years expirience of develope. Main technologies i used: ReactJS, NextJS, Redux(Redux Toolkit), TypeScript, Tailwind, MUI and other.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bogdansavvy&label=Profile%20views&color=0e75b6&style=flat" alt="bogdansavvy" /> 
-</p>
-
 ![Codewars Badge](https://www.codewars.com/users/bodick_dev/badges/large)
 
 ---
