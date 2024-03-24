@@ -39,13 +39,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdansavvy&show_icons=true&locale=en&layout=compact" alt="bogdansavvy" />
 </p>
 
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdansavvy&show_icons=true&locale=en" alt="bogdansavvy" />
 </p>
 
 <p>
-  <img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdansavvy&" alt="bogdansavvy" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdansavvy&" alt="bogdansavvy" />
 </p>
 
 ---
