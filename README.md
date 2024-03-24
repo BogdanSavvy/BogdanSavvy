@@ -6,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=bogdansavvy&label=Profile%20views&color=0e75b6&style=flat" alt="bogdansavvy" /> 
 </p>
 
-<p>
-  ![Codewars Badge](https://www.codewars.com/users/bodick_dev/badges/large)
-</p>
+![Codewars Badge](https://www.codewars.com/users/bodick_dev/badges/large)
 
 ---
 
