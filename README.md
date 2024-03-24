@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 
-<h3 align="center">I am front-end developer with more than 1.5 years expirience of develope. Main technologies i used: ReactJS, NextJS, Redux(Redux Toolkit), TypeScript, Tailwind, MUI and other.</h3>
+<h3 align="left">I am front-end developer with more than 1.5 years expirience of develope. Main technologies i used: ReactJS, NextJS, Redux(Redux Toolkit), TypeScript, Tailwind, MUI and other.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bogdansavvy&label=Profile%20views&color=0e75b6&style=flat" alt="bogdansavvy" /> 
@@ -35,13 +35,13 @@
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdansavvy&show_icons=true&locale=en" alt="bogdansavvy" />
-</p>
 
-<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdansavvy&show_icons=true&locale=en" alt="bogdansavvy" />
+
+
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdansavvy&" alt="bogdansavvy" />
-</p>
+
 
 ---
 
