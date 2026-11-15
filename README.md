@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋! My name is Bogdan and I'm a full-stack developer, from Ukraine 💙💛</h1>
 
-<div align="center">
-  <img src="https://githubcard.com/BogdanSavvy.svg?d=0zDkXkv6IYGX"  />
-</div>
-
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=BogdanSavvy&repos=false&followers=false&following=false)](https://www.readmecodegen.com/custom-github-card-generator)
 
 <h2 align="left">My socials:</h2>
 
